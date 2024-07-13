@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**ashpak81/ashpak81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Ashpak Patel**.
 
-Here are some ideas to get you started:
+🎓 I completed my graduation from Pune University with a CGPA of 8.32.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 I have 6 months of working experience as a Software Developer at Sagitech Solutions.
+
+🌱 I’m currently learning:
+- AWS
+- Data Structures and Algorithms (DSA)
+- MERN web development
+- Spring Boot
+
+💻 I have a good understanding of ASP.NET Core.
+
+🚀 I am looking for opportunities as a Software Developer at a well-established and professional company where I can better utilize my skills.
+
+📫 You can reach me at: [ashpakpatel81@gmail.com](mailto:ashpakpatel81@gmail.com).
+
+Feel free to connect and collaborate!
