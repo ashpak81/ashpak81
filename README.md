@@ -2,7 +2,7 @@
 
 I'm **Ashpak Patel**.
 
-🎓 I completed my graduation from Pune University with a CGPA of 8.32.
+🎓 I completed my graduation from Pune University.
 
 💼 I have 6 months of working experience as a Software Developer at Sagitech Solutions.
 
