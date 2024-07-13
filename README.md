@@ -2,7 +2,7 @@
 
 I'm **Ashpak Patel**.
 
-🎓 I completed my graduation from Pune University.
+🎓 I completed my graduation from Pune University with a CGPA of 8.32.
 
 💼 I have 6 months of working experience as a Software Developer at Sagitech Solutions.
 
@@ -12,7 +12,13 @@ I'm **Ashpak Patel**.
 - MERN web development
 - Spring Boot
 
-💻 I have a good understanding of ASP.NET Core.
+💻 I have a good understanding of:
+- Java
+- Object-Oriented Programming (OOP)
+- MySQL Database
+- Problem Solving
+- Linux OS
+- ASP.NET Core
 
 🚀 I am looking for opportunities as a Software Developer at a well-established and professional company where I can better utilize my skills.
 
