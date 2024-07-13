@@ -4,8 +4,6 @@ I'm **Ashpak Patel**.
 
 🎓 I completed my graduation from Pune University.  
 
-💼 I have 6 months of working experience as a Software Developer at Sagitech Solutions.
-
 🌱 I’m currently learning:
 - AWS
 - Data Structures and Algorithms (DSA)
@@ -19,6 +17,9 @@ I'm **Ashpak Patel**.
 - Problem Solving
 - Linux OS
 - ASP.NET Core
+
+💼 I have 6 months of working experience as a Software Developer at Sagitech Solutions.
+
 
 🚀 I am looking for opportunities as a Software Developer at a well-established and professional company where I can better utilize my skills.
 
