@@ -16,6 +16,7 @@ I'm **Ashpak Patel**.
 - MySQL Database
 - Problem Solving
 - Linux OS
+- C#
 - ASP.NET Core
 
 💼 I have 6 months of working experience as a Software Developer at Sagitech Solutions.
