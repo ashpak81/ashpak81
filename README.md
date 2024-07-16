@@ -5,21 +5,19 @@ I'm **Ashpak Patel**.
 🎓 I completed my graduation from Pune University.  
 
 🌱 I’m currently learning:
-- AWS
 - Data Structures and Algorithms (DSA)
+- AWS
 - MERN web development
 - Spring Boot
 
-💻 I have a good understanding of:
+💻 I have a knowledge of:
 - Java
 - Object-Oriented Programming (OOP)
 - MySQL Database
 - Problem Solving
-- Linux OS
+- Linux OS 
 - C#
 - ASP.NET Core
-
-💼 I have 6 months of working experience as a Software Developer at Sagitech Solutions.
 
 
 🚀 I am looking for opportunities as a Software Developer at a well-established and professional company where I can better utilize my skills.
