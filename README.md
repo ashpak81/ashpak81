@@ -5,7 +5,7 @@ I'm **Ashpak Patel**.
 🎓 I completed my graduation from Pune University.  
 
 🌱 I’m currently learning:
-- Data Structures and Algorithms (DSA)
+- Data Structures and Algorithms (DSA) (Java)
 - AWS
 - MERN web development
 - Spring Boot
