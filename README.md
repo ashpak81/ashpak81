@@ -5,7 +5,7 @@
 ## <img src="https://em-content.zobj.net/source/skype/289/man-technologist_1f468-200d-1f4bb.png" height="30px" width="30px" align="center"/> What I'm upto:
 
 - 💪 Proficient in Java and C# Programming Languages
-- 🌐 Learning AWS , DevOps Tools and Technologies
+- 🌐 Learning AWS , Web Development and Technologies
 - 🤝 Looking to help and collaboration with **Community Building, Code Projects & Open Source** :octocat:
 - 👥 Fascinated about tech communities
 - 💪 Do talk about DSA and Coding contests
