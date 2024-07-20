@@ -31,6 +31,7 @@
 <p align="left">
    <a href="https://leetcode.com/Ashpak_Patel"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a> &nbsp;&nbsp;
 </p>
+
 ## 📊 GitHub Status
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashpak81&show_icons=true&locale=en&layout=compact" alt="GitHub Stats" />
