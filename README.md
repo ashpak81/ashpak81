@@ -32,10 +32,15 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Ashpak_Patel?ext=heatmap)
 
 
-
 ## 🌐 Let's Connect:
 
 <p align="left">
-  <a href="mailto:ashpakpatel81@gmail.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="40" /></a>
-  <a href="https://in.linkedin.com/in/ashpakpatel" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="40" /></a>
+  <a href="mailto:ashpakpatel81@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="40" /></a>
+  <a href="https://www.linkedin.com/in/ashpakpatel"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="40" /></a>
+  <a href="https://leetcode.com/Ashpak_Patel"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+</p>
+
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashpak81&show_icons=true&locale=en&layout=compact" alt="ashpak81" />
 </p>
