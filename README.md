@@ -38,6 +38,7 @@
   <a href="mailto:ashpakpatel81@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="40" /></a>
   <a href="https://www.linkedin.com/in/ashpakpatel"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="40" /></a>
   <a href="https://leetcode.com/Ashpak_Patel"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://twitter.com/AshpakP13832809"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Twitter" height="40" /></a>
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
