@@ -29,9 +29,7 @@
 
 ## 👨‍💻 My Coding Profile:
 
-<p align="left">
-  <a href="https://leetcode.com/u/Ashpak_Patel/" target="_blank"><img src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png" alt="Leetcode" height=40 /></a>
-</p>
+![Leetcode Stats](https://leetcard.jacoblin.cool/Ashpak_Patel?ext=heatmap)
 
 
 
