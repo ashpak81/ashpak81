@@ -6,7 +6,7 @@
 
 - 💪 Proficient in Java and C# Programming Languages
 - 🌐 Learning AWS, Web Development, and Technologies
-- 🤝 Looking to help and collaborate with **Community Building, Code Projects & Open Source** :octocat:
+- 🤝 Looking to help and collaborate with **Community Building, Code Projects & Open Source** :octocat:   
 - 👥 Fascinated by tech communities
 - 💪 Let's talk about DSA and Coding contests
 - 💻 Loves managing and setting up UNIX Systems
