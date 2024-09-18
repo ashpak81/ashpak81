@@ -6,7 +6,7 @@
 - 💻 Proficient in **Java** and **C#**  
 - 🌱 Expanding my knowledge in **AWS** and **Web Development**  
 - 🤝 Eager to collaborate on **community building**, **code projects**, and **open-source**  
-- 👥 Enthusiastic about **tech communities**  
+- 👥 Enthusiastic about **tech communities**   
 - 🧠 Let's chat about **DSA** and **coding contests**  
 - 🖥️ Skilled in managing and setting up **UNIX systems**
 
